@@ -8,4 +8,4 @@ Hackl0us / SS-Rule-Snippet https://github.com/Hackl0us/SS-Rule-Snippet
 
 DivineEngine / Profiles https://github.com/DivineEngine/Profiles/tree/master
 
-https://github.com/Koolson/Qure
+Koolson / Qure https://github.com/Koolson/Qure
