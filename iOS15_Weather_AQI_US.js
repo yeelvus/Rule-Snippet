@@ -1,16 +1,5 @@
-// 此脚本仅适用于 iOS 15 的原生天气 App
-// Developed by Hackl0us (https://github.com/hackl0us)
+//const aqicnToken = '141ef520bf3b52e3f625986e1def00589cd73bd7'
 
-// STEP 1: 前往 https://aqicn.org/data-platform/token/ 注册账户，将申请的 API Token 填入下方
-const aqicnToken = '141ef520bf3b52e3f625986e1def00589cd73bd7'
-
-// STEP 2: 参考下方配置片段，在代理工具的配置文件中添加对应的配置。注意：script-path 后应该替换为添加 apicnToken 值后的脚本路径
-/*
-	[Script]
-	iOS15美标空气质量 = type=http-response,pattern=https://weather-data.apple.com/v2/weather/[\w-]+/-?[0-9]+\.[0-9]+/-?[0-9]+\.[0-9]+\?,requires-body=true,max-size=0,script-path=path/to/iOS15_Weather_AQI_US.js
-
-	[MITM]
-	hostname = weather-data.apple.com
 // 此脚本仅适用于 iOS 15 的原生天气 App
 // Developed by Hackl0us (https://github.com/hackl0us)
 
