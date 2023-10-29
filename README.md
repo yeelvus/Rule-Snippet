@@ -1,6 +1,6 @@
 # Rule-Snippet
 
-https://raw.githubusercontent.com/WyattIsaac/Rule-Snippet/main/ACL4SSR_Online_MultiCountry%26acdamic.ini
+> https://raw.githubusercontent.com/WyattIsaac/Rule-Snippet/main/ACL4SSR_Online_MultiCountry%26acdamic.ini
 
 ## 感谢
 
