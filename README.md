@@ -1,5 +1,7 @@
 # Rule-Snippet
 
+https://raw.githubusercontent.com/WyattIsaac/Rule-Snippet/main/ACL4SSR_Online_MultiCountry%26acdamic.ini
+
 ## 感谢
 
 Hackl0us / GeoIP2-CN https://github.com/Hackl0us/GeoIP2-CN
