@@ -6,6 +6,8 @@ DOMAIN-SUFFIX,clarivate.com
 DOMAIN-SUFFIX,webofscience.com
 DOMAIN-SUFFIX,webofknowledge
 DOMAIN-SUFFIX,access.clarivate.com
+DOMAIN-SUFFIX,sdfestaticassets-us-east-1.sciencedirectassets.com
+DOMAIN-SUFFIX,www.sciencedirect.com:443
 
 # data-api.similarsites.com
 # pjp1-collabhubrtc.officeapps.live.com
