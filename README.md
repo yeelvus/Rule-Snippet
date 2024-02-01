@@ -1,6 +1,11 @@
 # Rule-Snippet
 
-> https://raw.githubusercontent.com/WyattIsaac/Rule-Snippet/main/ACL4SSR_Online_MultiCountry%26acdamic.ini
+>
+>
+>
+'''
+https://raw.githubusercontent.com/WyattIsaac/Rule-Snippet/main/ACL4SSR_Online_MultiCountry%26acdamic.ini
+'''
 
 1、Clash for windows 与 Clash for Android 下载地址
 https://repo.trojan-cdn.com
