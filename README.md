@@ -3,8 +3,8 @@
 >
 >
 >
-'''
-https://raw.githubusercontent.com/WyattIsaac/Rule-Snippet/main/ACL4SSR_Online_MultiCountry%26acdamic.ini
+'''md
+https://github.com/yeelvus/Rule-Snippet/raw/main/ACL4SSR_Online_MultiCountry&acdamic.ini
 '''
 
 1、Clash for windows 与 Clash for Android 下载地址
