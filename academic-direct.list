@@ -9,6 +9,8 @@ DOMAIN-SUFFIX,access.clarivate.com
 DOMAIN-SUFFIX,sdfestaticassets-us-east-1.sciencedirectassets.com
 DOMAIN-SUFFIX,www.sciencedirect.com
 
+DOMAIN-SUFFIX,https://webofscience.clarivate.cn/wos/alldb/basic-search
+
 # data-api.similarsites.com
 # pjp1-collabhubrtc.officeapps.live.com
 
