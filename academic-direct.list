@@ -11,7 +11,7 @@ DOMAIN-SUFFIX,www.sciencedirect.com
 DOMAIN-SUFFIX,webofscience.clarivate.cn
 DOMAIN-SUFFIX,clarivate.cn
 DOMAIN-SUFFIX,swust.edu.cn
-IP-CIDR,198.18.0.0/24,DIRECT,no-resolve
+IP-CIDR,198.18.0.0/24,no-resolve
 
 # data-api.similarsites.com
 # pjp1-collabhubrtc.officeapps.live.com
