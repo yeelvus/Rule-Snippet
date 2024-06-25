@@ -3,7 +3,7 @@
 # 此规则使用前应先咨询校方，是否有购买版权。若没有，此规则无用处。更适合大学生及以上学学历学生使用。
 
 DOMAIN-SUFFIX,manual.gromacs.org 
-DOMAIN-KEYWORD,sci-hub 
+# DOMAIN-KEYWORD,sci-hub 
 DOMAIN-SUFFIX,ccdc.cam.ac.uk 
 DOMAIN-KEYWORD,wiley 
 DOMAIN-KEYWORD,pubs 
