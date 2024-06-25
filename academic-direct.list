@@ -2,6 +2,46 @@
 # 此规则适用于学校校园网已经购买论文网站版权，通过校园网的直连才能具备该免费下载的权限。
 # 此规则使用前应先咨询校方，是否有购买版权。若没有，此规则无用处。更适合大学生及以上学学历学生使用。
 
+DOMAIN-SUFFIX,manual.gromacs.org 
+DOMAIN-KEYWORD,sci-hub 
+DOMAIN-SUFFIX,ccdc.cam.ac.uk 
+DOMAIN-KEYWORD,wiley 
+DOMAIN-KEYWORD,pubs 
+DOMAIN-KEYWORD,translate 
+DOMAIN-KEYWORD,docs 
+DOMAIN-KEYWORD,onenote 
+DOMAIN-KEYWORD,office 
+DOMAIN-KEYWORD,microsoft 
+DOMAIN-SUFFIX,digicert.com 
+DOMAIN-SUFFIX,sciencedirect.com 
+DOMAIN-SUFFIX,iresearchbook.cn 
+DOMAIN-SUFFIX,elsevier.com 
+DOMAIN-SUFFIX,nature.com 
+DOMAIN-SUFFIX,webofknowledge.com 
+DOMAIN-SUFFIX,acs.org 
+DOMAIN-SUFFIX,scitation.org 
+DOMAIN-SUFFIX,adobe.io,REJECT
+DOMAIN-KEYWORD,webofscience 
+DOMAIN-KEYWORD,webofknowledge 
+DOMAIN-KEYWORD,clarivate 
+DOMAIN-KEYWORD,scfinder 
+DOMAIN-KEYWORD,elsevier 
+DOMAIN-KEYWORD,tandfonline 
+DOMAIN-KEYWORD,nature 
+DOMAIN-KEYWORD,acs 
+DOMAIN-KEYWORD,cas 
+DOMAIN-KEYWORD,rsc 
+DOMAIN-KEYWORD,sciencedirect 
+DOMAIN-KEYWORD,springer 
+DOMAIN-KEYWORD,wiley 
+DOMAIN-KEYWORD,JD 
+DOMAIN-KEYWORD,taobao 
+DOMAIN-KEYWORD,360buyimg 
+DOMAIN-KEYWORD,alicdn 
+DOMAIN-KEYWORD,scifinder 
+DOMAIN-KEYWORD,scifinder-n 
+
+
 DOMAIN-SUFFIX,clarivate.com
 DOMAIN-SUFFIX,webofscience.com
 DOMAIN-SUFFIX,webofknowledge.com
